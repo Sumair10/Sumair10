@@ -1,13 +1,11 @@
+
+
 <h1 align="center">Hi 👋, I'm Sumair Zahid</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
 <img  align="right" alt ="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumair10&label=Profile%20views&color=0e75b6&style=flat" alt="sumair10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumair10" alt="sumair10" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@sumairzahid3" target="blank"><img src="https://img.shields.io/twitter/follow/@sumairzahid3?logo=twitter&style=for-the-badge" alt="@sumairzahid3" /></a> </p>
 
 - 🔭 I’m currently working on **React JS**
 
@@ -31,5 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumair10&show_icons=true&locale=en&layout=compact" alt="sumair10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumair10&show_icons=true&locale=en" alt="sumair10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumair10&" alt="sumair10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumair10&" alt="sumair10" /></p>
