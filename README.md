@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@sumairzahid3" target="blank"><img src="https://img.shields.io/twitter/follow/@sumairzahid3?logo=twitter&style=for-the-badge" alt="@sumairzahid3" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **React JS** | **Node JS** | **Mongo DB** | **React Native**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **ASP .NET**
 
 - 💬 Ask me about **MERN stack**
 
